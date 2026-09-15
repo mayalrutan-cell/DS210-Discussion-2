@@ -7,9 +7,9 @@ cargo run
 ```
 
 ## Crew name
-
+ds
 _not chosen yet_
 
 ## Members
-
+jayla
 - _nobody has signed on yet_
